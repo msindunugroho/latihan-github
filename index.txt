@@ -1,0 +1,16 @@
+hallo ini latihan github
+
+# JANUARI 
+target bulan januari:
+- memiliki web portfolio (clear),
+- menyelesaikan skripsi,
+- menyelesaikan Journal,
+- membuat CV
+- perubahan untuk di hapus
+
+# FEBRUARI
+target bulan februari:
+- sudah memiliki ijazah
+- sudah mulai melamar kerja,
+- mulai memperdalam node js dan express js
+- perubahan untuk di hapus
