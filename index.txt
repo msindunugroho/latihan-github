@@ -7,6 +7,7 @@ target bulan januari:
 - menyelesaikan Journal,
 - membuat CV
 - perubahan untuk di hapus
+- penambahan item
 
 # FEBRUARI
 target bulan februari:
