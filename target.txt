@@ -4,4 +4,4 @@
 - perdalam lagi server framework
   ^ express js
 - perdalam lagi javascript framework
-  ^ angular
+  ^ angul
