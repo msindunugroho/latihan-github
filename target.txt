@@ -1,7 +1,7 @@
 #target tahun ini 
 - perdalam lagi javascript
-  ^ sampai Javascript OPP
+  ^ pelajari Asyncronous
 - perdalam lagi server framework
-  ^ gunakan Hapi
+  ^ express js
 - perdalam lagi javascript framework
-  ^ gunakan react
+  ^ angul
