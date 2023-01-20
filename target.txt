@@ -1,0 +1,4 @@
+#target tahun ini 
+- perdalam lagi javascript
+- perdalam lagi server framework
+- perdalam lagi javascript framework
